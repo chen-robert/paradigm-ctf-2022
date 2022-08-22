@@ -1,0 +1,10 @@
+name: OtterSwap
+author: NotDeGhost
+description: |-
+  Otter's are [bad at math](https://osec.io/blog/reports/2022-04-26-spl-swap-rounding/)..
+
+  `nc {{host}} {{port}}`
+provide:
+  - ./chall.tar.gz
+flag: flag{l00k_th3_0tt3r_way_z8210}
+

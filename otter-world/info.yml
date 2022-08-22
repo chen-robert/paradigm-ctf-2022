@@ -1,0 +1,10 @@
+name: OtterWorld
+author: NotDeGhost
+description: |-
+  Otter [World](https://osec.io/blog/tutorials/2022-03-14-solana-security-intro/)!
+
+  `nc {{host}} {{port}}`
+provide:
+  - ./chall.tar.gz
+flag: flag{0tt3r_w0r1d_8c01j3}
+
